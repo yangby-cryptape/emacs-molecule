@@ -1,5 +1,4 @@
-# Emacs-Molecule
-
+# Abir
 [![License]](#license)
 
 A Package for [Molecule] in [Emacs].
